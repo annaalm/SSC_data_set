@@ -1,0 +1,5 @@
+Name of Quantlet: SSC
+Published in: submitted to CRC649 WP Series
+Description: Aggregated social security contribution rates for employer and employee sides
+Keywords: business cycle, payroll tax, social security contributions, labor wedge
+Author: Almosova, Burda, Voigts
